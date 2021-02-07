@@ -2,7 +2,7 @@
 # subway = [10, 20, 30]
 # print(subway)
 
-# subway = ["유재석", "조세호", "박명수"]
+subway = ["유재석", "조세호", "박명수"]
 # print(subway)
 
 # # 조세호씨가 몇 번째 칸에 타고 있는가?
@@ -17,8 +17,8 @@
 # print(subway)
 
 # # 지하철에 있는 사람을 뒤에서 한명씩 꺼냄
-# print(subway.pop())
-# print(subway)
+print(subway.pop())
+print(subway)
 
 # # 같은 이름의 사람이 몇 명 있는지 확인
 # subway.append("유재석")
